@@ -16,7 +16,7 @@ Software Engineer / Machine Learning Developer
 
  - [Tournament system for EDH/Magic: the Gathering](https://gitlab.com/marqueewinq/edh-pairings)
 
-### Links
+### 🦋 Links
 
  - [Boring CV](https://docs.google.com/document/d/1JD8udib41Sa820yCcVLGBnkw_5c0mNr0p0mK4JaYrsY/edit#heading=h.vh8nhuo6yoox)
  - [Telegram](https://t.me/marqueewinq)
