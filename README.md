@@ -10,7 +10,7 @@ Software Engineer / Machine Learning Developer
 
 ### 🔭 My current project
 
- - [Synthesized](https://github.com/synthesized-io)
+ - [Synthesized](https://synthesized.io)
 
 ### 🌱 Love to collaborate on
 
