@@ -19,6 +19,6 @@ Software Engineer / Machine Learning Developer
 
 ### 🦋 Links
 
- - [Boring CV](https://docs.google.com/document/d/1JD8udib41Sa820yCcVLGBnkw_5c0mNr0p0mK4JaYrsY/edit#heading=h.vh8nhuo6yoox)
+ - [My awesome CV](https://docs.google.com/document/d/1JD8udib41Sa820yCcVLGBnkw_5c0mNr0p0mK4JaYrsY/edit#heading=h.vh8nhuo6yoox)
  - [Telegram](https://t.me/marqueewinq)
  - [LinkedIn](https://www.linkedin.com/in/marqueewinq/)
