@@ -14,7 +14,7 @@ Software Engineer / Machine Learning Developer
 
 ### 🌱 Love to collaborate on
 
- - [Tournament system for EDH/Magic: the Gathering](https://gitlab.com/marqueewinq/edh-pairings)
+ - [Tournament system for Multiplayer EDH (Magic: the Gathering)](https://gitlab.com/marqueewinq/edh-pairings)
  - [Steesh: Card Print & Play for tabletop game designers](https://github.com/marqueewinq/steesh)
 
 ### 🦋 Links
