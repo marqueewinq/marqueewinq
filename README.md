@@ -4,7 +4,7 @@ Software Engineer / Machine Learning Developer
 
 ### 💬 Ask me about
 
- - Full stack web app development (backend: Python, frontend: React/jQuery)
+ - Full stack web app development (backend: Python + Celery, frontend: React/jQuery)
  - CI/CD, monitoring and MLOps with Helm & Kubernetes, Airflow
  - Crowd-sourced image annotation for supervised/semi-supervised image recognition
 
