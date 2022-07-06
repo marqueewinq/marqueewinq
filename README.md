@@ -10,7 +10,7 @@ Software Engineer / Machine Learning Developer
 
 ### 🔭 My current project
 
- - [Synthesized](https://synthesized.io)
+ - [OneSoil](https://onesoil.ai/en)
 
 ### 🌱 Love to collaborate on
 
