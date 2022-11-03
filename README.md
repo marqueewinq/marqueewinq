@@ -8,6 +8,8 @@ Software Engineer / Machine Learning Developer
  - CI/CD, monitoring and MLOps with Helm & Kubernetes, Airflow
  - Crowd-sourced image annotation for supervised/semi-supervised image recognition
 
+You may see examples of my code in 📌 pinned repos section.
+
 ### 🔭 My current project
 
  - [OneSoil](https://onesoil.ai/en)
