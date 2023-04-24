@@ -21,6 +21,6 @@ You may see examples of my code in 📌 pinned repos section.
 
 ### 🦋 Links
 
- - [My awesome CV](http://marqueewinq.omg.lol/cv)
+ - [My awesome CV](https://marqueewinq.url.lol/cv)
  - [Telegram](https://t.me/marqueewinq)
  - [LinkedIn](https://www.linkedin.com/in/marqueewinq/)
