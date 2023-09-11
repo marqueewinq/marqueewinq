@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mark 👋 
 
-Software Engineer / Machine Learning Developer 
+Senior Software Engineer / Machine Learning Developer 
 
 ### 💬 Ask me about
 
