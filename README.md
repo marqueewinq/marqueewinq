@@ -13,7 +13,7 @@ You may see examples of my code in 📌 pinned repos section.
 
 ### 🔭 My current project
 
- - [OneSoil](https://onesoil.ai/en)
+ - [Synthesized](https://synthesized.io/)
 
 ### 🌱 Love to collaborate on
 
