@@ -17,7 +17,7 @@ Senior Software Engineer / Machine Learning Developer
 
 #### [Tournament system for Multiplayer EDH (Magic: the Gathering)](https://gitlab.com/marqueewinq/edh-pairings)
 
-[EDH Pairings](https://edh-pairings.herokuapp.com/) is the tournament organizer for the special case of 4-player tables.
+[EDH Pairings](https://edh.marqueewinq.xyz/) is the tournament organizer for the special case of 4-player tables.
  This is a go-to software for Magic: the Gathering Commander tournaments in Russia & CIS.
 
 The project is 100% non-profit & free. Cool new features are to be added -- send me a ping if you want to collaborate! 🔥
