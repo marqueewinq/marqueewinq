@@ -22,6 +22,10 @@ Senior Software Engineer / Machine Learning Developer
 
 The project is 100% non-profit & free. Cool new features are to be added -- send me a ping if you want to collaborate! 🔥
 
+#### [Shooter](https://github.com/marqueewinq/shooter)
+
+Shooter is REST API and CLI-enabled tool that captures full-page or partial screenshots from URLs, detects and labels HTML elements, and performs scripted user actions during the process. Designed a scalable architecture with task brokering, enabling concurrent execution by multiple workers and delivering comprehensive outputs, including labeled images and JSON metadata.
+
 ### 🦋 Links
 
  - [My awesome CV](https://marqueewinq.url.lol/cv)
