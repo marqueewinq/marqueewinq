@@ -28,6 +28,6 @@ Shooter is REST API and CLI-enabled tool that captures full-page or partial scre
 
 ### 🦋 Links
 
- - [My awesome CV](https://marqueewinq.url.lol/cv)
+ - [My awesome CV](https://marqueewinq.xyz/)
  - [Telegram](https://t.me/marqueewinq)
  - [LinkedIn](https://www.linkedin.com/in/marqueewinq/)
